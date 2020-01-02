@@ -10,6 +10,7 @@ class  Block{
     this.hash=this.calculateHash();
   }
   mineBlock(difficulty){
+    console.log('Mining blocks... Please wait...')
     while(this.hash.substring(0,difficulty)!== Array(difficulty+1).join('0'))
     {
      this.nonce++;
