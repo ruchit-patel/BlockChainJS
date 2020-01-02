@@ -58,3 +58,5 @@ for(i=0;i<blocksToAdd;i++)
     console.log(block);
     console.log(block.calculateHash());
   });
+console.log("------------------------------------------");
+  console.log(RuchitCoin.isChainValid())
