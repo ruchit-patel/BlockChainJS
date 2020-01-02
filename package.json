@@ -1,0 +1,23 @@
+{
+  "name": "BlockChainJS-1",
+  "version": "1.0.0",
+  "description": "Javascript implementation of Blockchain Proof of Concept [![Run on Repl.it](https://repl.it/badge/github/ruchit-patel/BlockChainJS)](https://repl.it/github/ruchit-patel/BlockChainJS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruchit-patel/BlockChainJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruchit-patel/BlockChainJS/issues"
+  },
+  "homepage": "https://github.com/ruchit-patel/BlockChainJS#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}

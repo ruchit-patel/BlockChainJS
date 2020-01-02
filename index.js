@@ -3,7 +3,7 @@ const Block=require('./block');
 class Blockchain{
   constructor(){
     this.chain=[this.createGenesisBlock()];
-    this.difficulty=4;
+    this.difficulty=5;
   }
 
   createGenesisBlock(){
